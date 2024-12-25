@@ -19,3 +19,7 @@ Follow these steps to set up the project:
 4. **Run the Application**: Finally, run the application using Streamlit by executing `python -m streamlit run app.py`.
 
 Ensure you have all the necessary libraries installed before running these commands.
+
+## Output
+
+![image](https://github.com/user-attachments/assets/5ba8ae83-d747-4075-8e20-732251057b0b)
