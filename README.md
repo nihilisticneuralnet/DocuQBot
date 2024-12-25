@@ -1,6 +1,6 @@
 # DocuQBot: AI Conversational Assistant for Document Analysis
 
-This project is a PDF-based chatbot that allows users to upload PDF documents, extract text, and interact with the content through a conversational interface. Using FAISS for vector search and a lightweight Hugging Face model (like GPT-Neo-125M), the chatbot answers user queries based on the uploaded document. The system processes text into chunks, embeds them, and retrieves relevant sections for context-aware responses.
+This project is a PDF-based RAG chatbot that allows users to upload PDF documents, extract text, and interact with the content through a conversational interface. Using FAISS for vector search and a lightweight Hugging Face model (like GPT-Neo-125M), the chatbot answers user queries based on the uploaded document. The system processes text into chunks, embeds them, and retrieves relevant sections for context-aware responses.
 
 ## Installation
 
